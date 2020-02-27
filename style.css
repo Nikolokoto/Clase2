@@ -1,0 +1,28 @@
+.titulo {
+    color: rgb(109, 163, 194);
+    font-weight: bolder;
+    font-style: unset;
+    font-size: xx-large;
+}
+
+.normal {
+    font-weight: initial;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(173, 185, 206)
+}
+
+#parrafo-resaltado {
+    font-weight: 600;
+    font-style: italic;
+    font-size: 20px;
+    color: whitesmoke
+}
+
+#lista {
+    list-style-type: lower-greek;
+    color: violet;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column
+}
